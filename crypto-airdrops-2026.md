@@ -1,3 +1,9 @@
+---
+title: Crypto Airdrops 2026 Guide
+description: Discover new crypto airdrops, testnets and free token opportunities. Join our Telegram community for early airdrop alerts.
+image: airdrop.png
+---
+
 <p align="right">
 <a href="https://odessacool1.github.io/my-vpn-blog/airdrops-crypto-2026">🇷🇺 Русский</a> | <b>🇺🇸 English</b>
 </p>
