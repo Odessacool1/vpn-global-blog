@@ -210,3 +210,13 @@ Fornex is a complete infrastructure solution for modern internet users:
 - powerful hosting for blockchain and crypto nodes  
 
 If you need reliable internet infrastructure, **Fornex is definitely worth trying**.
+
+---
+
+## More Guides
+
+- [Best VPN for Crypto Trading](vpn-for-crypto.md)
+- [VPN for Binance Traders](vpn-for-binance.md)
+- [VPN for Developers](vpn-for-developers.md)
+- [VPN for GitHub Access](vpn-for-github.md)
+- [VPN for Trading](vpn-for-trading.md)
