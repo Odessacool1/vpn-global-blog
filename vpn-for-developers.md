@@ -100,9 +100,8 @@ This provides very low latency worldwide.
 
 ## Get 10% Discount
 
-Use my referral link to receive a permanent **10% discount**.
+Use my referral link to receive a permanent **[10% discount](https://fornex.com/code/vlj0nv/)**.
 
-👉 https://fornex.com/code/vlj0nv/
 
 ---
 
