@@ -1,4 +1,7 @@
-# Unlimited Internet Without Borders
+<p align="right">
+<a href="https://odessacool.github.io/my-vpn-blog">Русская версия</a>
+</p>
+# Unlimited Internet Without Borders                                                                           
 
 ![VPN](vpn-image.jpg)
 
