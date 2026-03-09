@@ -72,7 +72,7 @@ Fornex is suitable for:
 
 ## Fornex VPN Features
 
-![Fornex Hosting](vpn-image2.jpg)
+![Fornex Hosting](vpn-image21.jpg)
 
 Fornex VPN provides:
 
@@ -107,7 +107,7 @@ With Fornex VPN:
 
 ## VPN for Crypto Users
 
-![Unlimited VPN](vpn-image3.jpg)
+![Unlimited VPN](vpn-image31.jpg)
 
 Cryptocurrency infrastructure requires stability and speed.
 
