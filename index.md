@@ -1,6 +1,13 @@
 <p align="right">
 <a href="https://odessacool1.github.io/my-vpn-blog/">🇷🇺 Русский</a> | 🇺🇸 <b>English</b>
 </p>
+
+<p align="right">
+<a href="https://odessacool1.github.io/vpn-global-blog/crypto-airdrops-2026" style="display:inline-block;padding:10px 18px;background:#ff7a00;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
+🎁 Airdrops 2026
+</a>
+</p>
+
 # Unlimited Internet Without Borders                                                                           
 
 ![VPN](vpn-image.jpg)
