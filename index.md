@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://odessacool.github.io/my-vpn-blog">Русская версия</a>
+<a href="https://odessacool1.github.io/my-vpn-blog/">Русская версия</a>
 </p>
 # Unlimited Internet Without Borders                                                                           
 
