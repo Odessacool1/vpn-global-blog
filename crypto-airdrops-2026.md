@@ -9,7 +9,7 @@ image: airdrop.png
 </p>
 
 <p align="center">
-<a href="https://t.me/skyfor1" style="display:inline-block;padding:12px 22px;background:#2b7fff;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
+<a href="https://t.me/+hRfaPrLw_CNiMjUy" style="display:inline-block;padding:12px 22px;background:#2b7fff;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
 🚀 Join My Telegram for Airdrops
 </a>
 </p>
@@ -90,7 +90,7 @@ I regularly share information about:
 - step-by-step participation guides
 - beginner-friendly crypto insights
 
-👉 **[Join My Telegram for Airdrops](https://t.me/skyfor1)**
+👉 **[Join My Telegram for Airdrops](https://t.me/+hRfaPrLw_CNiMjUy)**
 
 ---
 
