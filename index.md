@@ -79,7 +79,7 @@ As a partner, I can offer you a permanent **10% discount** on all Fornex service
 * ✅ High-Performance VPS
 * ✅ Dedicated Servers & DDoS Protection
 
-👉 **[CLAIM YOUR 10% DISCOUNT NOW](https://fornex.com/code/v1j0nv/)**
+👉 **[CLAIM YOUR 10% DISCOUNT NOW](https://fornex.com/code/vlj0nv/)**
 
 ---
 
