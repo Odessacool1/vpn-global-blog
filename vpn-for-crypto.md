@@ -6,7 +6,7 @@
 
 ![VPN for Crypto](vpn-dlya-kripty.png)
 
-👉 **[Get 10% Off](https://fornex.com/code/v1j0nv/)**
+👉 **[Get 10% Off](https://fornex.com/code/vlj0nv/)**
 
 ---
 
