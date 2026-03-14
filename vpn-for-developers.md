@@ -1,3 +1,8 @@
+---
+title: VPN for Developers - Secure Work with GitHub and SSH
+description: Protect your remote infrastructure, GitHub access, and SSH connections with a high-speed VPN for developers.
+layout: default
+---
 <p align="right">
 <a href="https://odessacool1.github.io/my-vpn-blog/">🇷🇺 Русский</a> | <b>🇺🇸 English</b>
 </p>
@@ -6,7 +11,11 @@
 
 ![VPN for Developers](vpn-dlya-razrabotchikov.png)
 
-👉 **[Get 10% Off](https://fornex.com/code/v1j0nv/)**
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://fornex.com/code/v1j0nv/" target="_blank" style="display:inline-block; padding:15px 30px; background-color:#ff7a00; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow: 0 4px 6px rgba(255, 122, 0, 0.3); transition: all 0.3s ease;">
+    🔥 GET 10% OFF FORNEX NOW
+  </a>
+</p>
 
 ---
 
@@ -142,7 +151,11 @@ DDoS protection and 24/7 support are also available.
 
 If you want to try Fornex services, use the link below.
 
-👉 **[Get 10% Off](https://fornex.com/code/v1j0nv/)**
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://fornex.com/code/v1j0nv/" target="_blank" style="display:inline-block; padding:15px 30px; background-color:#ff7a00; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow: 0 4px 6px rgba(255, 122, 0, 0.3); transition: all 0.3s ease;">
+    🔥 GET 10% OFF FORNEX NOW
+  </a>
+</p>
 
 The discount applies to:
 
