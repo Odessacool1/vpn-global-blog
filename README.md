@@ -58,13 +58,13 @@ It is a practical starting point for building a stronger crypto infrastructure.
 
 ## Categories
 
-- [VPN for Crypto Traders](./vpn.md)
-- [Crypto Exchanges](./exchanges.md)
-- [Hardware Wallets](./wallets.md)
-- [Trading Tools](./trading-tools.md)
-- [⚡ PROFITSKY — TradingView indicator Analyzer](./profitsky.md)
-- [Endpoint Security](./endpoint-security.md)
-- [Extra Resources](./resources.md)
+- [VPN for Crypto Traders](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/vpn.md)
+- [Crypto Exchanges](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/exchanges.md)
+- [Hardware Wallets](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/wallets.md)
+- [Trading Tools](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/trading-tools.md)
+- [⚡ PROFITSKY — TradingView indicator Analyzer](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/profitsky.md)
+- [Endpoint Security](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/endpoint-security.md)
+- [Extra Resources](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/resources.md)
 
 ---
 
@@ -82,7 +82,7 @@ It combines 12 indicators into a single weighted scoring system with Smart Money
 | Market Regime | Trending / Ranging / Volatile detection |
 | MTF Dashboard | Signals across 5 timeframes |
 
-[→ Learn more about PROFITSKY](./profitsky.md)
+[→ Learn more about PROFITSKY](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/profitsky.md)
 
 ---
 
@@ -98,7 +98,7 @@ Using a VPN can help hide your IP address, encrypt internet traffic and reduce e
 | Surfshark | High | High | Multi-device users |
 | Proton VPN | High | Medium | Privacy-focused users |
 
-More details: [vpn.md](./vpn.md)
+More details: [vpn.md](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/vpn.md)
 
 ---
 
@@ -113,7 +113,7 @@ Different traders need different exchanges depending on liquidity, derivatives a
 | OKX | CEX | Tools and product depth |
 | KuCoin | CEX | Broad altcoin access |
 
-More details: [exchanges.md](./exchanges.md)
+More details: [exchanges.md](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/exchanges.md)
 
 ---
 
@@ -126,7 +126,7 @@ Self-custody matters. Hardware wallets reduce the risk of hot wallet exposure an
 | Ledger | Very High | Broad ecosystem support |
 | Trezor | Very High | Open and trusted self-custody |
 
-More details: [wallets.md](./wallets.md)
+More details: [wallets.md](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/wallets.md)
 
 ---
 
@@ -141,8 +141,7 @@ Professional traders rely on better charting, portfolio tracking and market rese
 | CoinStats | Portfolio tracking |
 | Messari | Market research and intelligence |
 
-More details: [trading-tools.md](./trading-tools.md) · [PROFITSKY](./profitsky.md)
-
+More details: [trading-tools.md](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/trading-tools.md) 
 ---
 
 ### 5. Security Stack
@@ -158,7 +157,7 @@ Typical security stack:
 5. 2FA authentication  
 6. Device hygiene and update discipline  
 
-More details: [security.md](./security.md)
+More details: [security.md](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/endpoint-security.md)
 
 ---
 
